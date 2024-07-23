@@ -1,7 +1,11 @@
-*{
+* {
   margin: 0;
   box-sizing: border-box;
 }
 img {
-max-width: 100%;
+  max-width: 100%;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
 }
